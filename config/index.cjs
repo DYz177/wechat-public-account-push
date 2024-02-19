@@ -58,7 +58,7 @@ const USER_CONFIG = {
       id: '',
     }
   ],
-
+  
   SLOT_LIST: [
     // 这样配置的话，就会每次随机选一句话发送
     {
